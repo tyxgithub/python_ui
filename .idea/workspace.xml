@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52208359-cef2-44a5-8929-70eb946d5d65" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$newUser.coverage" NAME="newUser Coverage Results" MODIFIED="1569497329298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RuleInterface" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_Test.coverage" NAME="Unittests for test.Test Coverage Results" MODIFIED="1563938132665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_mtManage_mtManage_test_06_deletefalse.coverage" NAME="Unittests for test_mtManage.mtManage.test_06_deletefalse Coverage Results" MODIFIED="1565337273015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1564046328039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_Test_test_a_usertrue.coverage" NAME="Unittests for test1.Test.test_a_usertrue Coverage Results" MODIFIED="1564023894401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$testcode1.coverage" NAME="testcode1 Coverage Results" MODIFIED="1565339687739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/elementSure" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1564401009926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/elementSure" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_03_trueusername.coverage" NAME="Unittests for test_login.TestLogin.test_03_trueusername Coverage Results" MODIFIED="1563938569376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_in_mutitenant_py.coverage" NAME="Unittests in mutitenant.py Coverage Results" MODIFIED="1564466166017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/elementSure" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_TestTest001_test_test001.coverage" NAME="Unittests for test1.TestTest001.test_test001 Coverage Results" MODIFIED="1563867411347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_in_test_mtManage_py.coverage" NAME="Unittests in test_mtManage.py Coverage Results" MODIFIED="1565337316901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$testcode.coverage" NAME="testcode Coverage Results" MODIFIED="1569487601788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_in_baseTestCase_py.coverage" NAME="Unittests in baseTestCase.py Coverage Results" MODIFIED="1563787422113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasePage" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_Test_test_b_usertrue.coverage" NAME="Unittests for test1.Test.test_b_usertrue Coverage Results" MODIFIED="1563946694072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$test_testduowei1.coverage" NAME="test_testduowei1 Coverage Results" MODIFIED="1563862372426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_Test_test_c_syslog.coverage" NAME="Unittests for test1.Test.test_c_syslog Coverage Results" MODIFIED="1563947300398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_c_trueusername.coverage" NAME="Unittests for test_login.TestLogin.test_c_trueusername Coverage Results" MODIFIED="1563937736670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_Test_test_01.coverage" NAME="Unittests for test.Test.test_01 Coverage Results" MODIFIED="1563938122785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$mutitenant.coverage" NAME="mutitenant Coverage Results" MODIFIED="1564401175877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/elementSure" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_TestTest01.coverage" NAME="Unittests for test1.TestTest01 Coverage Results" MODIFIED="1563882052260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_in_BaseTestCase_py.coverage" NAME="Unittests in BaseTestCase.py Coverage Results" MODIFIED="1569323286370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$baseHttp.coverage" NAME="baseHttp Coverage Results" MODIFIED="1569553480025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RuleInterface" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$report_cre.coverage" NAME="report_cre Coverage Results" MODIFIED="1563959568515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html_report" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_BaseTestCase_BaseTestCaseCls.coverage" NAME="Unittests for BaseTestCase.BaseTestCaseCls Coverage Results" MODIFIED="1569319643492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_Test1_test_01.coverage" NAME="Unittests for test.Test1.test_01 Coverage Results" MODIFIED="1564043772332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$mtManagePage.coverage" NAME="mtManagePage Coverage Results" MODIFIED="1563798342234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObject" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_syslog.coverage" NAME="Unittests for test_login.TestLogin.test_syslog Coverage Results" MODIFIED="1563934538342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_in_test2_py.coverage" NAME="Unittests in test2.py Coverage Results" MODIFIED="1569324885524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1563938937647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_in_test1_py.coverage" NAME="Unittests in test1.py Coverage Results" MODIFIED="1569324159636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_falseusername.coverage" NAME="Unittests for test_login.TestLogin.test_falseusername Coverage Results" MODIFIED="1563932820678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$handOutRule.coverage" NAME="handOutRule Coverage Results" MODIFIED="1569550292882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RuleInterface" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_Test.coverage" NAME="Unittests for test1.Test Coverage Results" MODIFIED="1563937884960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_testcode_BaseTestcase.coverage" NAME="Unittests for testcode.BaseTestcase Coverage Results" MODIFIED="1564401296083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/elementSure" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_A.coverage" NAME="Unittests for test.A Coverage Results" MODIFIED="1564043861565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$createOrg.coverage" NAME="createOrg Coverage Results" MODIFIED="1569495872558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RuleInterface" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_02_falseusername.coverage" NAME="Unittests for test_login.TestLogin.test_02_falseusername Coverage Results" MODIFIED="1563937622075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_Test_test_03syslog.coverage" NAME="Unittests for test1.Test.test_03syslog Coverage Results" MODIFIED="1563937261424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$datamanage.coverage" NAME="datamanage Coverage Results" MODIFIED="1564405190912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/elementSure" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1569496162576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_in_testcode_py.coverage" NAME="Unittests in testcode.py Coverage Results" MODIFIED="1569327375951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_testb_test_01.coverage" NAME="Unittests for test1.testb.test_01 Coverage Results" MODIFIED="1569321727714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCode" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_Test_test_syslog.coverage" NAME="Unittests for test1.Test.test_syslog Coverage Results" MODIFIED="1563937219784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_Test_test_02.coverage" NAME="Unittests for test.Test.test_02 Coverage Results" MODIFIED="1563882781929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_04_syslog.coverage" NAME="Unittests for test_login.TestLogin.test_04_syslog Coverage Results" MODIFIED="1563951416295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_createMt.coverage" NAME="Unittests for test_login.TestLogin.test_createMt Coverage Results" MODIFIED="1563866984396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1569317240004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_TestTest001.coverage" NAME="Unittests for test1.TestTest001 Coverage Results" MODIFIED="1563865976426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_01_falseusername.coverage" NAME="Unittests for test_login.TestLogin.test_01_falseusername Coverage Results" MODIFIED="1563946023082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_TestTest01_test_test01.coverage" NAME="Unittests for test1.TestTest01.test_test01 Coverage Results" MODIFIED="1563882155361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_a_falseusername.coverage" NAME="Unittests for test_login.TestLogin.test_a_falseusername Coverage Results" MODIFIED="1563937752906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_baseTestCase_BaseTestCase.coverage" NAME="Unittests for baseTestCase.BaseTestCase Coverage Results" MODIFIED="1563792530017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BasePage" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_testfalseusername_01.coverage" NAME="Unittests for test_login.TestLogin.testfalseusername_01 Coverage Results" MODIFIED="1563937844103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_Test_test_userfalse.coverage" NAME="Unittests for test1.Test.test_userfalse Coverage Results" MODIFIED="1563936023911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$test.coverage" NAME="test Coverage Results" MODIFIED="1569550876268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RuleInterface" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_02_falsepasswd.coverage" NAME="Unittests for test_login.TestLogin.test_02_falsepasswd Coverage Results" MODIFIED="1563939817089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test_login_TestLogin_test_trueusername.coverage" NAME="Unittests for test_login.TestLogin.test_trueusername Coverage Results" MODIFIED="1563934686286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$delOrg.coverage" NAME="delOrg Coverage Results" MODIFIED="1569495898613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RuleInterface" />
+    <SUITE FILE_PATH="coverage/DUOWEI_AUTO$Unittests_for_test1_Test_test_usertrue.coverage" NAME="Unittests for test1.Test.test_usertrue Coverage Results" MODIFIED="1563937104090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="265" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PageObject/systemLogPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="19" />
+              <folding>
+                <element signature="e#13#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funtionTools/functionTools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="69" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/test_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="e#11#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RuleInterface/handOutRule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/elementSure/datamanage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elementSure/mutitenant.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2438">
+              <caret line="115" column="17" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasePage/baseTestCase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PageObject/loginPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="e#11#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RuleInterface/baseHttp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1196">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RuleInterface/createOrg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestCase/Mtmanage.py" />
+        <option value="$USER_HOME$/Downloads/test_testduowei1.py" />
+        <option value="$PROJECT_DIR$/BasePage/baseTestCase.py" />
+        <option value="$PROJECT_DIR$/html_report/report_cre.py" />
+        <option value="$PROJECT_DIR$/TestCase/testcode.py" />
+        <option value="$PROJECT_DIR$/TestCase/test_login.py" />
+        <option value="$PROJECT_DIR$/TestCase/test.py" />
+        <option value="$PROJECT_DIR$/funtionTools/functionTools.py" />
+        <option value="$PROJECT_DIR$/TestCase/test1.py" />
+        <option value="$PROJECT_DIR$/PageObject/systemLogPage.py" />
+        <option value="$PROJECT_DIR$/elementSure/muti_tenant.py" />
+        <option value="$PROJECT_DIR$/TestCase/muti_tenant.py" />
+        <option value="$PROJECT_DIR$/TestCase/test_systemlog.py" />
+        <option value="$PROJECT_DIR$/PageObject/loginPage.py" />
+        <option value="$PROJECT_DIR$/elementSure/datamanage.py" />
+        <option value="$PROJECT_DIR$/elementSure/mutitenant.py" />
+        <option value="$PROJECT_DIR$/PageObject/mtManagePage.py" />
+        <option value="$PROJECT_DIR$/TestCase/test_mtManage.py" />
+        <option value="$PROJECT_DIR$/elementSure/testcode1.py" />
+        <option value="$PROJECT_DIR$/elementSure/testcode.py" />
+        <option value="$PROJECT_DIR$/testCode/test1.oy.py" />
+        <option value="$PROJECT_DIR$/testCode/BaseTestCase.py" />
+        <option value="$PROJECT_DIR$/testCode/test2.py" />
+        <option value="$PROJECT_DIR$/testCode/testcode.py" />
+        <option value="$PROJECT_DIR$/testCode/test1.py" />
+        <option value="$PROJECT_DIR$/RuleInterface/delOrg.py" />
+        <option value="$PROJECT_DIR$/RuleInterface/newUser.py" />
+        <option value="$PROJECT_DIR$/RuleInterface/delUser.py" />
+        <option value="$PROJECT_DIR$/RuleInterface/createOrg.py" />
+        <option value="$PROJECT_DIR$/RuleInterface/test.py" />
+        <option value="$PROJECT_DIR$/RuleInterface/handOutRule.py" />
+        <option value="$PROJECT_DIR$/RuleInterface/baseHttp.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-235" />
+    <option name="y" value="26" />
+    <option name="width" value="1026" />
+    <option name="height" value="658" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DUOWEI_AUTO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DUOWEI_AUTO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DUOWEI_AUTO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DUOWEI_AUTO" type="462c0819:PsiDirectoryNode" />
+              <item name="BasePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DUOWEI_AUTO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DUOWEI_AUTO" type="462c0819:PsiDirectoryNode" />
+              <item name="elementSure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DUOWEI_AUTO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DUOWEI_AUTO" type="462c0819:PsiDirectoryNode" />
+              <item name="funtionTools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DUOWEI_AUTO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DUOWEI_AUTO" type="462c0819:PsiDirectoryNode" />
+              <item name="PageObject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DUOWEI_AUTO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DUOWEI_AUTO" type="462c0819:PsiDirectoryNode" />
+              <item name="RuleInterface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DUOWEI_AUTO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DUOWEI_AUTO" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\think\Desktop\selenium自动化\DUOWEI_AUTO\elementSure" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\think\Desktop\selenium自动化\DUOWEI_AUTO\elementSure" />
+      <recent name="C:\Users\think\Desktop\selenium自动化\DUOWEI_AUTO\TestCase" />
+      <recent name="C:\Users\think\Desktop\selenium自动化\DUOWEI_AUTO\PageObject" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.baseHttp">
+    <configuration name="baseHttp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DUOWEI_AUTO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RuleInterface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RuleInterface/baseHttp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="handOutRule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DUOWEI_AUTO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RuleInterface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RuleInterface/handOutRule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="newUser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DUOWEI_AUTO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RuleInterface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RuleInterface/newUser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DUOWEI_AUTO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RuleInterface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RuleInterface/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DUOWEI_AUTO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCode/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.baseHttp" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.handOutRule" />
+        <item itemvalue="Python.newUser" />
+        <item itemvalue="Python.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52208359-cef2-44a5-8929-70eb946d5d65" name="Default Changelist" comment="" />
+      <created>1563779482294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563779482294</updated>
+      <workItem from="1563779483500" duration="44276000" />
+      <workItem from="1563952200405" duration="63690000" />
+      <workItem from="1564556633850" duration="135000" />
+      <workItem from="1564556793879" duration="3116000" />
+      <workItem from="1565337140624" duration="1025000" />
+      <workItem from="1565338688822" duration="2767000" />
+      <workItem from="1567406640919" duration="118000" />
+      <workItem from="1568190590901" duration="21000" />
+      <workItem from="1568193221988" duration="661000" />
+      <workItem from="1569317230492" duration="2251000" />
+      <workItem from="1569319835855" duration="6313000" />
+      <workItem from="1569479678584" duration="26041000" />
+      <workItem from="1573205353904" duration="115000" />
+      <workItem from="1590935992322" duration="135000" />
+      <workItem from="1595389814439" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test2_py - 2019.09.24 at 19h 15m 12s.xml">
+      <configuration name="Unittests in test2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test2_py - 2019.09.24 at 19h 16m 07s.xml">
+      <configuration name="Unittests in test2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test2_py - 2019.09.24 at 19h 18m 04s.xml">
+      <configuration name="Unittests in test2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test1_py - 2019.09.24 at 19h 21m 08s.xml">
+      <configuration name="Unittests in test1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test1_py - 2019.09.24 at 19h 21m 50s.xml">
+      <configuration name="Unittests in test1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test1_py - 2019.09.24 at 19h 22m 39s.xml">
+      <configuration name="Unittests in test1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test2_py - 2019.09.24 at 19h 33m 44s.xml">
+      <configuration name="Unittests in test2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test2_py - 2019.09.24 at 19h 34m 45s.xml">
+      <configuration name="Unittests in test2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testcode_py - 2019.09.24 at 20h 15m 49s.xml">
+      <configuration name="Unittests in testcode.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testcode_py - 2019.09.24 at 20h 16m 16s.xml">
+      <configuration name="Unittests in testcode.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="150755000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17170954" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.30932897" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.36497545" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11422088" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.46644846" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.36497545" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/test_testduowei1.py" />
+    <entry file="file://$PROJECT_DIR$/TestCase/muti_tenant.py" />
+    <entry file="file://$PROJECT_DIR$/TestCase/test.py" />
+    <entry file="file://$PROJECT_DIR$/elementSure/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/test_ttt.py" />
+    <entry file="file://$PROJECT_DIR$/TestCase/test_systemlog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="e#13#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSure/testcode1.py" />
+    <entry file="file://$PROJECT_DIR$/elementSure/testcode.py" />
+    <entry file="file://$PROJECT_DIR$/testCode/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCode/BaseTestCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_report/report_cre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObject/mtManagePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="74" column="62" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="62" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCode/testcode.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCode/test1.py" />
+    <entry file="file://$PROJECT_DIR$/RuleInterface/newUser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RuleInterface/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/test_mtManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RuleInterface/delOrg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1610">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RuleInterface/delUser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObject/systemLogPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#13#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funtionTools/functionTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="69" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#11#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RuleInterface/handOutRule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSure/mutitenant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2438">
+          <caret line="115" column="17" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasePage/baseTestCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObject/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#11#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RuleInterface/baseHttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RuleInterface/createOrg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSure/datamanage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
